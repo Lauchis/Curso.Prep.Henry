@@ -60,6 +60,7 @@ function filter(array) {
   })
   return arraynew;
 }
+
 //Después de mirar los resultados me di cuenta que hay otra forma:
 //return array.filter(function(valor) {
 //  return valor[0] === 'a';
