@@ -1,0 +1,34 @@
+h1 {
+	color: darkred;
+}
+img {
+	width: 400px;
+}
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: gold;
+	padding: 50px;
+	border: goldenrod 5px dashed;
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	/* Para centar los elementos intenté usar felxbox, pero no me funciona,
+	tal vez sea porque tengo Windows 7 y todo los programas que pude descargar son versiones anteriores.
+	display: flex;
+	justify-content: center;
+	align-items: center;*/
+
+}
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+body {
+	background-image: url(https://tse4.mm.bing.net/th/id/OIP.QrmFUk99TjkwDE9hK83G1QHaHa?w=198&h=198&c=7&r=0&o=5&pid=1.7);
+}
+div {
+	text-align: center;
+}
