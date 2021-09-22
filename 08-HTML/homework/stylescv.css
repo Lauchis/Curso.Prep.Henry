@@ -1,0 +1,36 @@
+body {
+	background-image: ;
+	font-family: "Arial";
+	width: 60%;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+img {
+	width: 150px;
+	height: 150px;
+	padding: 2px;
+	border: 2px solid black;
+	float: right;
+}
+.Class1 {
+	border: 1px solid #ccc;
+	background: violet;
+	padding: 10px;
+	display: flex;
+
+}
+h1 {
+	color: midnightblue;
+	text-align: center;
+}
+.name {
+	margin-left: 20px;
+	width: 100%;
+	color: midnightblue;
+	text-align: center;
+}
+h3 {
+	border: 2px solid violet;
+	color: midnightblue;
+	border-radius: 15px;
+}
